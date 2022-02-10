@@ -1,6 +1,6 @@
 const enum Sets {
   agesEnd = "Ages End",
-  battleOfHelmsDeep  = "Battle of Helm's Deep"
+  battleOfHelmsDeep = "Battle of Helm's Deep",
 }
 
 const enum Kind {
@@ -46,7 +46,7 @@ const enum TypeListItem {
 
 const enum Rarity {
   p = "P",
-  c = "C"
+  c = "C",
 }
 
 type TheOneRing = {

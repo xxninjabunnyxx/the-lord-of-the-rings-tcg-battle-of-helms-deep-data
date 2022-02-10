@@ -1,4 +1,3 @@
-
 const card: Event = {};
 
 export default card;
